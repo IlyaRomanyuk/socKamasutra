@@ -1,0 +1,17 @@
+.container{
+    position: relative;
+}
+
+.error{
+    border: 2px solid red;
+}
+
+.blockError{
+    position: absolute;
+    top: -10px;
+    left: 190px;
+    width: 130px;
+    height: 50px;
+    background-color: rgb(238, 197, 197);
+    text-align: center;
+}
